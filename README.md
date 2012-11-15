@@ -23,11 +23,11 @@ Lorem ipsizzle check out this fo shizzle mah nizzle fo rizzle, mah home g-dizzle
 
 # Topic 3
 Here is a block of code that might be useful:
-	def foo:
-		if not bar:
-			return true
+    def foo:
+        if not bar:
+            return true
 
-If this doesn't help, try the '<addr>' element instead.
+If this doesn't help, try the `<addr>` element instead. 
 
 
 # Additional Notes
