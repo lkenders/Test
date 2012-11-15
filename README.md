@@ -23,9 +23,7 @@ Lorem ipsizzle check out this fo shizzle mah nizzle fo rizzle, mah home g-dizzle
 
 # Topic 3
 Here is a block of code that might be useful:
-    def foo:
-        if not bar:
-            return true
+<pre><code> Code Block </code></pre>
 
 If this doesn't help, try the `<addr>` element instead. 
 
